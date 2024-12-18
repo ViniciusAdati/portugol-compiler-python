@@ -15,9 +15,12 @@ calgoritmo "soma_simples"
 // Função : Soma dois números inteiros  
 
 // Autor : Você
-// Data : Hoje
-// Seção de Declarações
-inteiro resultado
+// Data : Hoje  
+
+// Seção de Declarações  
+
+inteiro resultado  
+
 
 funcao soma(a: inteiro, b: inteiro): inteiro
     retorno a + b
