@@ -26,7 +26,7 @@ funcao soma(a: inteiro, b: inteiro): inteiro
     retorno a + b  
 fimfuncao
 inicio  
-    resultado = soma(7, 5) 
+    resultado = soma(7, 5)  
     escreva("Resultado da soma: ", resultado)  
     
 fimalgoritmo
