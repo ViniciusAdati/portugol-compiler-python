@@ -22,11 +22,18 @@ calgoritmo "soma_simples"
 inteiro resultado  
 
 
-funcao soma(a: inteiro, b: inteiro): inteiro
-    retorno a + b
+funcao soma(a: inteiro, b: inteiro): inteiro  
+
+    retorno a + b  
+    
 fimfuncao
 
-inicio
+inicio  
+
     resultado = soma(7, 5) 
+
+    
     escreva("Resultado da soma: ", resultado)
+
+
 fimalgoritmo
