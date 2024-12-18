@@ -1,8 +1,8 @@
 # portugol-compiler-python
 
-Este projeto é um compilador para a linguagem Visualg (também conhecida como Portugol), criado com o objetivo de permitir que programas escritos nessa linguagem sejam compilados e executados, ou convertidos para outro formato de código.
+Este é um projeto acadêmico da disciplina de Compiladores, desenvolvido com o objetivo de utilizar Python para compilar códigos escritos em Visualg (Portugol).
 
-O projeto foi desenvolvido em Python e visa facilitar o uso da linguagem Visualg, que é frequentemente usada para ensinar conceitos de lógica de programação.
+A proposta do projeto é oferecer uma ferramenta que facilite o uso da linguagem Visualg, amplamente empregada no ensino de lógica de programação, por meio da criação de um compilador simples e eficiente.
 
 ## Tecnologias Usadas
 Python: Linguagem de programação usada para implementar o compilador e a lógica do projeto.
