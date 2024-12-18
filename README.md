@@ -10,8 +10,10 @@ Visualg (Portugol): Linguagem de programação de ensino, muito utilizada para i
 
 ## Exemplo de uso
 
-calgoritmo "soma_simples"
-// Função : Soma dois números inteiros
+calgoritmo "soma_simples"  
+
+// Função : Soma dois números inteiros  
+
 // Autor : Você
 // Data : Hoje
 // Seção de Declarações
