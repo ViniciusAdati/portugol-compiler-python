@@ -14,7 +14,8 @@ calgoritmo "soma_simples"
 
 // Função : Soma dois números inteiros  
 
-// Autor : Você
+// Autor : Você  
+
 // Data : Hoje  
 
 // Seção de Declarações  
